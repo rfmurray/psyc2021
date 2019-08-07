@@ -1,0 +1,10 @@
+# ignore files and folders with dash at end of name
+*-
+*-.[^.]*
+
+# ignore macOS window information
+.DS_Store
+
+# ignore hidden R files
+.R*
+
