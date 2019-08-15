@@ -1,4 +1,8 @@
 
+
+This course will be offered in the fall of 2019.
+
+
 ### Upcoming events
 
 **September 10.**  First lecture
@@ -7,5 +11,5 @@
 
 **October 15.** Fall reading week; no class
 
-** October 22.**  Test 1
+**October 22.**  Test 1
 
