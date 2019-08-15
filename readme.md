@@ -5,7 +5,7 @@ This course will be offered in the fall of 2019.
 
 ### Upcoming events
 
-**September 10.**  First lecture
+**September 10.**  First lecture (see syllabus.pdf for time and location)
 
 **September 24.**  Quiz 1 (then weekly)
 
