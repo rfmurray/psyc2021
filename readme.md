@@ -1,8 +1,5 @@
 
 
-This course will be offered in the fall of 2019.
-
-
 ### Upcoming events
 
 **September 10.**  First lecture (see syllabus.pdf for time and location)
