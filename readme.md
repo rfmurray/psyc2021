@@ -2,8 +2,6 @@
 
 ### Upcoming events
 
-**September 10.**  First lecture (see syllabus.pdf for time and location)
-
 **September 24.**  Quiz 1 (then weekly quizzes)
 
 **October 15.** Fall reading week; no class
