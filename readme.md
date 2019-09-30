@@ -2,6 +2,8 @@
 
 ### Upcoming events
 
+**October 8.** For this lecture, read Urdan's chapter 6, and chapter 7 up to but not including the section "Limitations of statistical significance testing"
+
 **October 15.** Fall reading week; no class
 
 **October 22.**  Test 1 (covers lectures 1-4)
