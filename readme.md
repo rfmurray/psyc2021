@@ -1,5 +1,10 @@
 
 
+### Announcement:  final exam
+
+The final exam will take place on Thursday, December 12, 2:00-5:00.  The location has not been announced yet.
+
+
 ### Upcoming events
 
 **October 8.** For this lecture, read Urdan's chapter 6, and chapter 7 up to but not including the section "Limitations of statistical significance testing"
