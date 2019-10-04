@@ -2,7 +2,7 @@
 
 ### Announcement:  final exam
 
-The final exam will take place on Thursday, December 12, 2:00-5:00 pm.  The location has not been announced yet.
+The final exam is tentatively scheduled for Thursday, December 12, 2:00-5:00 pm.  The location has not been announced yet.
 
 
 ### Upcoming events
