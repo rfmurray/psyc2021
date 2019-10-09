@@ -7,11 +7,11 @@ The final exam is tentatively scheduled for Thursday, December 12, 2:00-5:00 pm.
 
 ### Upcoming events
 
-**October 8.** For this lecture, read Urdan's chapter 6, and chapter 7 up to but not including the section "Limitations of statistical significance testing"
-
-**October 15.** Fall reading week; no class
+**October 15.**  Fall reading week; no class
 
 **October 22.**  Test 1 (covers lecture topics 1-4)
+
+**October 29.**  Quizzes resume
 
 
 ### Solutions to problems in Urdan's book
