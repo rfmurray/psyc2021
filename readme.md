@@ -11,7 +11,7 @@ The final exam is tentatively scheduled for Thursday, December 12, 2:00-5:00 pm.
 
 **October 15.** Fall reading week; no class
 
-**October 22.**  Test 1 (covers lectures 1-4)
+**October 22.**  Test 1 (covers lecture topics 1-4)
 
 
 ### Solutions to problems in Urdan's book
