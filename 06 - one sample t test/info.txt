@@ -1,2 +1,5 @@
 
-Lecture 6 was a short lecture after the first midterm test.  We continued with the topics begun in lecture 5, and discussed the one sample t test.  See the assigned problems for lecture 5 for practice on these topics.
+Lecture 6 was a short lecture after the first midterm test.  We
+continued with the topics begun in lecture 5, and discussed the
+one sample t test.  See the assigned problems for lecture 5 for
+practice on these topics.
