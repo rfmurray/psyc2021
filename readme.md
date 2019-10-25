@@ -2,16 +2,14 @@
 
 ### Announcement:  final exam
 
-The final exam is tentatively scheduled for Thursday, December 12, 2:00-5:00 pm.  The location has not been announced yet.
+The final exam will be on Thursday, December 12, 2:00-5:00 pm.  This is now the official date and time, and is no longer tentative.  The location has not been announced.
 
 
 ### Upcoming events
 
-**October 15.**  Fall reading week; no class
+**October 29.**  Weekly quizzes resume
 
-**October 22.**  Test 1 (covers lecture topics 1-4)
-
-**October 29.**  Quizzes resume
+**November 19.**  Test 2 (covers lecture topics 5-8)
 
 
 ### Solutions to problems in Urdan's book
