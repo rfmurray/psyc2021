@@ -14,6 +14,8 @@ The final exam will be on Thursday, December 12, 2:00-5:00 pm, in the Tait McKen
 
 **November 26.**  Last quiz
 
+**December 3.**  Review session -- bring questions
+
 
 ### Solutions to problems in Urdan's book
 
