@@ -2,7 +2,7 @@
 
 ### Announcement:  final exam
 
-The final exam will be on Thursday, December 12, 2:00-5:00 pm.  This is now the official date and time, and is no longer tentative.  The location has not been announced.
+The final exam will be on Thursday, December 12, 2:00-5:00 pm, in the Tait McKenzie centre.  It is cumulative.  It will have around 1/3 of its material from lectures 1-4, 1/3 from lectures 5-8, and 1/3 from lectures 9-12. 
 
 
 ### Upcoming events
