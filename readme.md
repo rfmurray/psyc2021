@@ -10,7 +10,7 @@ The final exam will be on Thursday, December 12, 2:00-5:00 pm, in the Tait McKen
 **November 19.**  Test 2
 - covers lecture topics 5 - 8
 - covers Urdan chapters 6 and 7; also chapter 8, pp. 93-94, 105-106
-- covers assigned problems from Kelley and Donnelle; see syllabus
+- covers assigned problems from Kelley and Donnelly; see syllabus
 
 **November 26.**  Last quiz
 
