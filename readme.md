@@ -7,8 +7,6 @@ The final exam will be on Thursday, December 12, 2:00-5:00 pm, in the Tait McKen
 
 ### Upcoming events
 
-**November 26.**  Last quiz
-
 **December 3.**  Review session -- bring questions
 
 **December 12.**  Final exam, 2:00-5:00, Tait McKenzie Centre
